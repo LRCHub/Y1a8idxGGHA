@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "夢番地",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-10T08:17:31.935231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_夢番地_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夢番地 - Yumebanchi",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/07_夢番地_-_Yumebanchi_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢番地「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_夢番地「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢番地",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_夢番地_RADWIMPS.txt"
+    }
+  ]
+}
